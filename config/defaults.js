@@ -3,12 +3,12 @@ define({
     //default web map, default app color theme and more. These values can be overwritten by template configuration settings
     //and url parameters.
     "appid": "",
-    "webmap": "0c5cb13c4fc54b28bb26a125221ed96f",
+    "webmap": "6b8a234fda664b2093a8963bc2224624",
     "form_layer": {
-        "id": ""
+        "id": "Buoy_Feedback_6191"
     },
     "details": {
-        "Title": "",
+        "Title": "Buoy Bounce",
         "Logo": "",
         "Description": ""
     },
