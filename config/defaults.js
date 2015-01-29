@@ -5,10 +5,10 @@ define({
     "appid": "",
     "webmap": "6b8a234fda664b2093a8963bc2224624",
     "form_layer": {
-        "id": "Buoy_Feedback_6191"
+        "id": "Distress_Notifications_1454"
     },
     "details": {
-        "Title": "Buoy Bounce",
+        "Title": "Search and Rescue",
         "Logo": "",
         "Description": ""
     },
